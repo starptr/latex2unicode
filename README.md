@@ -5,7 +5,7 @@ Inspired by [latex-to-utf8](https://github.com/jmwoll/latex-to-utf8)
 
 ## Use
 
-Type in `\` followed by the appropriate LaTeX math mode operation. See the table below:
+Type in the appropriate shortcut, followed by `Enter`. See the table below:
 
 (As of v1.1)
 
