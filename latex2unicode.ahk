@@ -23,6 +23,7 @@ C ← hotstring is case-sensitive
 ; Algebra
 :O?C:\pm::±
 :O?C:\times::×
+:O?C:\cdot::⋅
 :O?C:\approx::≈
 :O?C:\approxeq::≊
 :O?C:\neq::≠
