@@ -20,6 +20,18 @@ O ← EndChars are not printed
 C ← hotstring is case-sensitive
 */
 
+; Alphanumeric Styles
+:O?C:\mathbb{C}::ℂ
+:O?C:\mathbb{R}::ℝ
+:O?C:\mathbb{Q}::ℚ
+:O?C:\mathbb{Z}::ℤ
+:O?C:\mathcal{B}::ℬ
+:O?C:\mathcal{E}::ℰ
+:O?C:\mathcal{L}::ℒ
+:O?C:\mathcal{M}::ℳ
+:O?C:\mathcal{N}::𝒩
+:O?C:\mathcal{P}::𝒫
+
 ; Logic and Set notation
 :O?C:\neg::¬
 :O?C:\land::∧
@@ -46,6 +58,12 @@ C ← hotstring is case-sensitive
 :O?C:\neq::≠
 :O?C:\equiv::≡
 :O?C:\nequiv::≢
+
+; Functions
+:O?C:\lfloor::⌊
+:O?C:\rfloor::⌋
+:O?C:\lceil::⌈
+:O?C:\rceil::⌉
 
 ; Arrows
 :O?C:\leftarrow::←
