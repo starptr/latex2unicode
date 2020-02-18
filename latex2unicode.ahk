@@ -20,6 +20,50 @@ O ← EndChars are not printed
 C ← hotstring is case-sensitive
 */
 
+; Algebra
+:O?C:\pm::±
+:O?C:\times::×
+:O?C:\approx::≈
+:O?C:\approxeq::≊
+:O?C:\neq::≠
+:O?C:\leq::≤
+:O?C:\geq::≥
+:O?C:\geqq::≦
+:O?C:\geqq::≧
+
+; Super-script
+:O?C:^0::⁰
+:O?C:^1::¹
+:O?C:^2::²
+:O?C:^3::³
+:O?C:^4::⁴
+:O?C:^5::⁵
+:O?C:^6::⁶
+:O?C:^7::⁷
+:O?C:^8::⁸
+:O?C:^9::⁹
+:O?C:^+::⁺
+:O?C:^-::⁻
+:O?C:^(::⁽
+:O?C:^)::⁾
+:O?C:^n::ⁿ
+; Sub-script
+:O?C:_0::₀
+:O?C:_1::₁
+:O?C:_2::₂
+:O?C:_3::₃
+:O?C:_4::₄
+:O?C:_5::₅
+:O?C:_6::₆
+:O?C:_7::₇
+:O?C:_8::₈
+:O?C:_9::₉
+:O?C:_+::₊
+:O?C:_-::₋
+:O?C:_(::₍
+:O?C:_)::₎
+:O?C:_n::ⁿ
+
 ; Alphanumeric Styles
 :O?C:\mathbb{C}::ℂ
 :O?C:\mathbb{R}::ℝ
@@ -55,7 +99,6 @@ C ← hotstring is case-sensitive
 :O?C:\supseteq::⊇
 :O?C:\cap::∩
 :O?C:\cup::∪
-:O?C:\neq::≠
 :O?C:\equiv::≡
 :O?C:\nequiv::≢
 
