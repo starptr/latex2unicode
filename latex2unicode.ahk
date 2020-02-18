@@ -107,6 +107,7 @@ C ← hotstring is case-sensitive
 :O?C:\rfloor::⌋
 :O?C:\lceil::⌈
 :O?C:\rceil::⌉
+:O?C:\circ::∘
 
 ; Arrows
 :O?C:\leftarrow::←
