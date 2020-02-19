@@ -114,7 +114,7 @@ C ← hotstring is case-sensitive
 :O?C:\leftarrow::←
 :O?C:\uparrow::↑
 :O?C:\rightarrow::→
-:O?C:\leftrightarrow::↓
+:O?C:\downarrow::↓
 :O?C:\leftrightarrow::↔
 :O?C:\updownarrow::↕
 :O?C:\mapsto::↦
