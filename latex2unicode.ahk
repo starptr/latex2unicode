@@ -102,6 +102,7 @@ C ← hotstring is case-sensitive
 :O?C:\cup::∪
 :O?C:\equiv::≡
 :O?C:\nequiv::≢
+:O?C:\therefore::∴
 
 ; Functions
 :O?C:\lfloor::⌊
@@ -137,3 +138,6 @@ C ← hotstring is case-sensitive
 :O?C:\Longleftarrow::⟸
 :O?C:\Longrightarrow::⟹
 :O?C:\Longleftrightarrow::⟺
+
+; Miscellaneous
+:O?C:\qedsymbol::∎
