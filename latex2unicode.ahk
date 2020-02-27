@@ -31,6 +31,10 @@ C ← hotstring is case-sensitive
 :O?C:\geq::≥
 :O?C:\geqq::≦
 :O?C:\geqq::≧
+:O?C:\prec::≺
+:O?C:\succ::≻
+:O?C:\preceq::⪯
+:O?C:\succeq::⪰
 
 ; Super-script
 :O?C:^0::⁰
@@ -70,6 +74,7 @@ C ← hotstring is case-sensitive
 :O?C:\mathbb{R}::ℝ
 :O?C:\mathbb{Q}::ℚ
 :O?C:\mathbb{Z}::ℤ
+:O?C:\mathbb{N}::ℕ
 :O?C:\mathcal{B}::ℬ
 :O?C:\mathcal{E}::ℰ
 :O?C:\mathcal{L}::ℒ
