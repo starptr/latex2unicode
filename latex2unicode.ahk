@@ -63,7 +63,7 @@ C ← hotstring is case-sensitive
 :O?C:_-::₋
 :O?C:_(::₍
 :O?C:_)::₎
-:O?C:_n::ⁿ
+:O?C:_n::ₙ
 
 ; Alphanumeric Styles
 :O?C:\mathbb{C}::ℂ
