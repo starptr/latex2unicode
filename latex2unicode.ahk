@@ -109,11 +109,13 @@ C ← hotstring is case-sensitive
 :O?C:\nequiv::≢
 :O?C:\therefore::∴
 
-; Functions
+; Delimeters
 :O?C:\lfloor::⌊
 :O?C:\rfloor::⌋
 :O?C:\lceil::⌈
 :O?C:\rceil::⌉
+:O?C:\langle::〈
+:O?C:\rangle::〉
 :O?C:\circ::∘
 
 ; Arrows
